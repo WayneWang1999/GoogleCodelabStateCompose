@@ -1,3 +1,5 @@
+Use IDE Gradle Version JDK-18 to compile this file
+
 # Advanced State in Jetpack Compose Codelab
 
 This folder contains the source code for the
